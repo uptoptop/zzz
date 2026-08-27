@@ -1,0 +1,12 @@
+{
+  "name": "sv2-railway",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "sv.js",
+  "scripts": {
+    "start": "node sv.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
